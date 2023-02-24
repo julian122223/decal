@@ -1,2 +1,3 @@
-# PrecisionClient-Static
- The static web files for Precision Client
+decal#1
+singleplayer
+mutiplayers
