@@ -1,2 +1,2 @@
-# decal
-decal is a game
+# PrecisionClient-Static
+ The static web files for Precision Client
